@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=33e493bf_002D31f7_002D4e97_002Da48b_002D04e6baa90072/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SelfDependency_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2211C041-A90D-4BD7-8D99-FE32B1A8F331::net6.0::DependencyInjection.Test.DependencyTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35e6a9af_002D4f48_002D42a0_002Da01c_002D475302be90a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MutiInterfaceDependency_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2211C041-A90D-4BD7-8D99-FE32B1A8F331::net6.0::DependencyInjection.Test.DependencyTest.MutiInterfaceDependency_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

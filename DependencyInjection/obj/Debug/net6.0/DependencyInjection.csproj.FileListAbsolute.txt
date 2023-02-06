@@ -1,0 +1,12 @@
+D:\project\lxd\DependencyInjection\DependencyInjection\bin\Debug\net6.0\DependencyInjection.deps.json
+D:\project\lxd\DependencyInjection\DependencyInjection\bin\Debug\net6.0\DependencyInjection.dll
+D:\project\lxd\DependencyInjection\DependencyInjection\bin\Debug\net6.0\DependencyInjection.pdb
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.AssemblyReference.cache
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfo.cs
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\DependencyInjection.dll
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\refint\DependencyInjection.dll
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\DependencyInjection.pdb
+D:\project\lxd\DependencyInjection\DependencyInjection\obj\Debug\net6.0\ref\DependencyInjection.dll
